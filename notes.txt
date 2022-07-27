@@ -1,0 +1,6 @@
+primary = #0bda92
+secondary = #252525
+font = IBM+Plex+Sans
+
+https://cdn.jsdelivr.net/npm/swiper@7.4.1/swiper-bundle.min.js
+https://cdn.jsdelivr.net/npm/swiper@7.4.1/swiper-bundle.min.js
